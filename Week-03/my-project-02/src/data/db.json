@@ -1,0 +1,31 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "eid": 231,
+      "ename": "Sweety",
+      "edesgn": "Programmer",
+      "edept": "IT",
+      "eplace": "Chennai",
+      "ephno": 78897653409
+    },
+    {
+      "eid": " 1",
+      "ename": " shiny",
+      "edesgn": "xxx",
+      "edept": "yyy",
+      "eplace": " chennai",
+      "ephno": "9876504325",
+      "id": 2
+    },
+    {
+      "eid": " 1",
+      "ename": " shiny",
+      "edesgn": "xxx",
+      "edept": "yyy",
+      "eplace": " chennai",
+      "ephno": "9876504325",
+      "id": 3
+    }
+  ]
+}
