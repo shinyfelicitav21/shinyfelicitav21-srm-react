@@ -1,0 +1,25 @@
+{
+    "emp":[
+    {
+    "$id": "1",
+    "Id": 1,
+    "EmployeeName": "Connor",
+    "EmployeeSalary": 200000,
+    "Adress": "Amsterdam, Netherlands"
+    },
+    {
+    "$id": "2",
+    "Id": 3,
+    "EmployeeName": "John",
+    "EmployeeSalary": 20000,
+    "Adress": "Amsterdam, Netherlands"
+    },
+    {
+    "$id": "3",
+    "Id": 1005,
+    "EmployeeName": "John Cartor",
+    "EmployeeSalary": 5000,
+    "Adress": "Usa"
+    }
+    ]
+}
